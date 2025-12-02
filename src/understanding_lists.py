@@ -19,7 +19,6 @@ print("Lista de motocicletas", motorcycles)
 print(motorcycles[2])
 #Eliminando elementos de las listas usando (del)
 print("--------------------------------")
-
 del motorcycles[0]
 print("Lista de motocicletas", motorcycles)
 #Eliminando elementos de las listas usando (pop)
@@ -30,7 +29,7 @@ print("Motocicleta eliminada", popped_motorcycle)
 #usar pop para eliminar un elemento en una posicion especifica
 lista_original_de_las_motocicletas = ['honda', 'yamaha', 'suzuki', 'ducati', 'bmw']
 print("Lista original de motocicletas", lista_original_de_las_motocicletas)
-motocicleta_eliminada = lista_original_de_las_motocicletas.pop(2)
+motocicleta_eliminada = lista_original_de_las_motocicletas.pop(2) #Eliminando el objeto 2
 print("Lista de motocicletas despues de usar pop en una posicion especifica", lista_original_de_las_motocicletas)
 #Eliminar por valor elementos de una lista
 print("--------------------------------")

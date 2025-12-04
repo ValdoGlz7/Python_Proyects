@@ -458,3 +458,14 @@ calculate_bmi_and_category("70.0", "0.0") # Error: Zero height
 # 3) W3Schools. (2023). Python Operators. Available at: [Link a W3Schools sobre operadores aritméticos y lógicos]
 # 4) Stack Overflow (community best practices on data validation and type checking).
 # 5) Smith, J. M. (2020). Principles of Programming with Python. (O similar libro de programación básica).
+
+# --------------------------------------------------
+# Git Repository Clone Instruction
+# --------------------------------------------------
+
+# To download this project from the source repository, use the following command 
+# in your terminal or command prompt:
+#
+# git clone https://github.com/ValdoGlz7/Python_Proyects
+#
+# This command will create a local copy of the repository contents.

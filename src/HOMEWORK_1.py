@@ -504,3 +504,14 @@ format_product_label("Product", "zero") # Error: Invalid price
 # 3) W3Schools. (2023). Python String Methods. Available at: [Link a W3Schools sobre métodos de string]
 # 4) Lutz, M. (2013). Learning Python (5th ed.). O'Reilly Media. (O similar libro de programación)
 # 5) Wikipedia. Palindrome. Available at: [Link a la entrada de Wikipedia sobre palíndromos para concepto]
+
+# --------------------------------------------------
+# Git Repository Clone Instruction
+# --------------------------------------------------
+
+# To download this project from the source repository, use the following command 
+# in your terminal or command prompt:
+#
+# git clone https://github.com/ValdoGlz7/Python_Proyects
+#
+# This command will create a local copy of the repository contents.

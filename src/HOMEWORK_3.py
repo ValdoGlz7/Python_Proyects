@@ -518,3 +518,14 @@ manage_contact_book("DELETE", "Sam") # Test final delete
 # 3) Real Python. (2023). Python Dictionaries. Available at: [Link a un tutorial de Real Python sobre diccionarios]
 # 4) Severance, C. (2016). Python for Everybody: Exploring Data in Python 3. (O similar libro de programación)
 # 5) Stack Overflow (for best practices and specific methods).
+
+# --------------------------------------------------
+# Git Repository Clone Instruction
+# --------------------------------------------------
+
+# To download this project from the source repository, use the following command 
+# in your terminal or command prompt:
+#
+# git clone https://github.com/ValdoGlz7/Python_Proyects
+#
+# This command will create a local copy of the repository contents.

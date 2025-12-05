@@ -124,10 +124,14 @@ if __name__ == "__main__":
 # References
 # --------------------------------------------------
 
-# References:
-# 1) Python documentation – while and for loops. Available at: [Link a la documentación oficial de Python sobre bucles]
-# 2) Wikipedia. (2023). Fibonacci number. Available at: [Link a la página de Wikipedia sobre Fibonacci]
-# 3) Tutoriales de Python sobre Fibonacci series (e.g., GeeksforGeeks). Available at: [Link a un tutorial de Python/Fibonacci]
+# Python Software Foundation. "The while statement" y "The for statement".
+# Documentación oficial de Python sobre bucles.
+# Available at: https://docs.python.org/3/tutorial/controlflow.html
+# Wikipedia. (2023). "Fibonacci number".
+# Disponible en: https://en.wikipedia.org/wiki/Fibonacci_number
+# GeeksforGeeks. "Python Program for Fibonacci numbers".
+# Disponible en: https://www.geeksforgeeks.org/python-program-for-fibonacci-numbers/
+
 
 # --------------------------------------------------
 # Git Repository Clone Instruction

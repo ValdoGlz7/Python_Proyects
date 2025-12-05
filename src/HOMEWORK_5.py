@@ -457,12 +457,14 @@ run_problem_6("-5") # Error
 # References 
 # --------------------------------------------------
 
-# References:
-# 1) Python documentation – Defining Functions (def, return, parameters). Available at: [Link a la documentación oficial de Python sobre funciones]
-# 2) Tutorialspoint. (2023). Python Functions. Available at: [Link a un tutorial sobre funciones y sus tipos]
-# 3) GeeksforGeeks. (2023). Python Function Arguments and Scope. Available at: [Link a un recurso sobre argumentos y scope]
-# 4) Zelle, J. M. (2017). Python Programming: An Introduction to Computer Science (3rd ed.). (O similar libro de programación).
-# 5) Clean Code principles (Single Responsibility Principle).
+# Python Software Foundation. "Defining Functions — Python Docs."
+#  Available at: https://docs.python.org/3/tutorial/controlflow.html#defining-functions
+# Tutorialspoint. (2023). "Python - Functions."
+#    Available at: https://www.tutorialspoint.com/python/python_functions.htm
+# GeeksforGeeks. (2023). "Python Function Arguments and Parameters."
+#    Available at: https://www.geeksforgeeks.org/function-arguments-in-python/
+# Zelle, J. M. (2017). *Python Programming: An Introduction to Computer Science* (3rd ed.). Franklin, Beedle & Associates.
+# Martin, R. C. (2009). *Clean Code: A Handbook of Agile Software Craftsmanship*. Prentice
 
 # --------------------------------------------------
 # Git Repository Clone Instruction

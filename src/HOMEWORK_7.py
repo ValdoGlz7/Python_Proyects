@@ -304,13 +304,10 @@ if __name__ == "__main__":
 # References
 # --------------------------------------------------
 
-# References:
 # Python Software Foundation. “Built-in Types – Mapping Types — dict.”:
 # https://docs.python.org/3/library/stdtypes.html#dict
-
 # Python Software Foundation. “Defining Functions.”:
 # https://docs.python.org/3/tutorial/controlflow.html#defining-functions
-
 # GeeksforGeeks. “CRUD Operations in Python.”:
 # https://www.geeksforgeeks.org/crud-operations-in-python/
 

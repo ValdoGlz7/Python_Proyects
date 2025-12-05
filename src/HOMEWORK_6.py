@@ -121,7 +121,7 @@ if __name__ == "__main__":
 # The use of a **for loop** was essential for efficiently generating the series, allowing the calculation of *n* terms without writing redundant code. The Pythonic simultaneous assignment (`a, b = b, a + b`) is highly effective for rotating the two necessary sequence values in each iteration. Handling **n=1** (outputting only 0) and **n=2** (outputting 0, 1) was automatically managed by initializing the loop variables to $0$ and $1$ and letting the loop structure take care of the flow based on the `range(n)`. This sequence generation logic, particularly the simultaneous update, is highly reusable for any program requiring iterative mathematical sequence generation, such as geometric progression or Lucas numbers.
 
 # --------------------------------------------------
-# References (Minimum 3)
+# References
 # --------------------------------------------------
 
 # References:

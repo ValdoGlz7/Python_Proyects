@@ -1,6 +1,6 @@
-# Name: [Tu Nombre Completo]
-# Student ID: [Tu Matrícula]
-# Group: [Tu Grupo]
+# Name: Oswaldo González Charles
+# Student ID: 2530088
+# Group: IM 1-1
 
 # --------------------------------------------------
 # RESUMEN EJECUTIVO

@@ -458,11 +458,11 @@ run_problem_6("-5") # Error
 # --------------------------------------------------
 
 # Python Software Foundation. "Defining Functions — Python Docs."
-#  Available at: https://docs.python.org/3/tutorial/controlflow.html#defining-functions
+# Available at: https://docs.python.org/3/tutorial/controlflow.html#defining-functions
 # Tutorialspoint. (2023). "Python - Functions."
-#    Available at: https://www.tutorialspoint.com/python/python_functions.htm
+#  Available at: https://www.tutorialspoint.com/python/python_functions.htm
 # GeeksforGeeks. (2023). "Python Function Arguments and Parameters."
-#    Available at: https://www.geeksforgeeks.org/function-arguments-in-python/
+# Available at: https://www.geeksforgeeks.org/function-arguments-in-python/
 # Zelle, J. M. (2017). *Python Programming: An Introduction to Computer Science* (3rd ed.). Franklin, Beedle & Associates.
 # Martin, R. C. (2009). *Clean Code: A Handbook of Agile Software Craftsmanship*. Prentice
 
